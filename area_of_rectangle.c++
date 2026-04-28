@@ -11,6 +11,6 @@ int main() {
     cout << area;
     
     
-
+ 
     return 0;
 }
